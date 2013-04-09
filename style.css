@@ -1,0 +1,13 @@
+#menu {/*position:absolute;*/ width:100%; display:none; padding-top: 100px;}
+#logo {padding-top: 100px}
+a { text-decoration:none; outline: none;}
+body {
+background:none repeat scroll 0 0 #0F1923;
+}
+#menu div.jqDock {cursor:pointer;}
+#menu div.jqDock {background-color:transparent;}
+#menu div.jqDockLabel {border:0 none; padding-top:65px ; font-family:'calibri'; font-weight:bold; font-size:16px; white-space:nowrap; color:#FFFFFF; background-color:transparent;}
+#menu div.jqDockLabelLink {cursor:pointer; text-decoration: none;}
+#menu div.jqDockLabelImage {cursor:default;} 
+#menu div.jqDockWrap {margin:0 auto;}
+
