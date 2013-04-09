@@ -2,7 +2,8 @@
 #logo {padding-top: 100px}
 a { text-decoration:none; outline: none;}
 body {
-background:none repeat scroll 0 0 #0F1923;
+background-image:url('images/background.png');
+background-repeat: repeat;
 }
 #menu div.jqDock {cursor:pointer;}
 #menu div.jqDock {background-color:transparent;}
